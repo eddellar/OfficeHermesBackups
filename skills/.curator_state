@@ -1,0 +1,8 @@
+{
+  "last_report_path": "/home/eddellar/.hermes/logs/curator/20260512-152203",
+  "last_run_at": "2026-05-12T15:22:03.355310+00:00",
+  "last_run_duration_seconds": 146.661854,
+  "last_run_summary": "auto: no changes; llm: ## Human Summary\n\n**Cluster processed: social-media video production**\n\nThe two narrow siblings `food-character-video` and `suxi-manshi-video` were consolidated into a new umbrella `social-media-video-production`. Both were account-type-spe…",
+  "paused": false,
+  "run_count": 2
+}
