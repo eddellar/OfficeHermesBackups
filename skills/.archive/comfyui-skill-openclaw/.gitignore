@@ -1,0 +1,62 @@
+# App Config
+config.json
+outputs/
+!outputs/.gitkeep
+data/*
+!data/.gitkeep
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Runtime
+.cache/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+
+# IDE
+.idea/
+.vscode/
+.obsidian/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# Internal docs (not for public repo)
+docs/cli-design.md
+docs/PROJECT_DISCOVERY_CHECKLIST.md
+docs/feature-checklist.md
+
+# Standalone frontend source repository checked out locally
+frontend/
+
+# Jekyll local preview
+.bundle/
+vendor/bundle/
+docs/_site/
